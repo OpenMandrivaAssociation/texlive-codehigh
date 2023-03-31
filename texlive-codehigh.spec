@@ -1,6 +1,6 @@
 Name:		texlive-codehigh
 Version:	63175
-Release:	1
+Release:	2
 Summary:	Highlight code and demos with l3regex and lpeg
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codehigh
