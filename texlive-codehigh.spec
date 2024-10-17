@@ -3,7 +3,7 @@ Version:	65787
 Release:	1
 Summary:	Highlight code and demos with l3regex and lpeg
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codehigh
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/codehigh
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codehigh.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codehigh.doc.r%{version}.tar.xz
